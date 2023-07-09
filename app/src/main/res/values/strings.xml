@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">7MinutesWorkout</string>
+    <string name="start">START</string>
+    <string name="start_image">start image</string>
+    <string name="image">start image</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="weight_in_kg">WEIGHT (in Kg)</string>
+    <string name="height_in_cm">HEIGHT(in cm)</string>
+    <string name="your_bmi">YOUR BMI</string>
+</resources>
